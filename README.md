@@ -8,7 +8,7 @@ This repository is my submission for the module Programming for Data Analysis as
 - project.ipynb notebook which contains all of the research, analysis and plots formed.
 - a .gitignore file to ignore any temporary files and folders that should not normally be committed to a repository
 - Datasets Used Folder- A folder containing all of the datasets I have sourced elsewhere for analysis
-- New Datasets - A folder containing any new datasets I have formed by stitching data from diferrent sources together.
+- New Datasets - A folder containing any new datasets I have formed by stitching data from different sources together.
 
 # Project Instruction
 
